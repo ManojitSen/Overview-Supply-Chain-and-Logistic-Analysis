@@ -42,3 +42,15 @@ The structure supports time-based trend analysis and performance comparisons acr
 
 ## Dashboard
 ![Dashboard_Screenshot](https://github.com/user-attachments/assets/2bec2cb5-e091-4e00-a25b-58c6f04d4b89)
+
+## Project Insights
+-  The business maintains strong financial performance with a 27.44% profit margin, reflecting efficient cost and pricing strategies.
+- Inventory levels are well-aligned with demand, as 160K inventory quantity supports 129K order quantity, reducing stock-out risks.
+- High logistics volume is evident with 3M shipment quantity across 7,500 shipments, indicating large-scale supply chain operations.
+- Only 75% of orders are perfectly delivered, highlighting improvement opportunities in delivery accuracy and fulfillment reliability.
+- Maersk Line, DHL Express, and DB Schenker account for the highest shipment delays, making them key focus areas for logistics optimization.
+- High-value products such as Galaxy S24 Ultra and Galaxy Buds2 Pro dominate inventory value, requiring tighter inventory control to optimize working capital.
+- Top customers including Amazon, Flipkart, and Best Buy contribute the majority of revenue, emphasizing the importance of strategic customer partnerships.
+
+## Conclusion
+This project delivers a comprehensive view of Samsung’s supply chain and logistics performance by integrating sales, inventory, procurement, and shipment data into a single analytical dashboard. The analysis highlights strong profitability and scalable operations while also revealing key improvement areas such as shipment delays and order fulfillment efficiency. By identifying high-value products, critical suppliers, and top customers, the dashboard enables data-driven decision-making to optimize inventory levels, reduce logistics bottlenecks, and strengthen overall supply chain performance.
